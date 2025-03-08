@@ -7,4 +7,4 @@
 
 **[drrr_template_dkr.zip](https://github.com/fznmeatpopsicle/srb2_k_drrr_md3_tutorials/raw/refs/heads/main/drrr/drrr_template_dkr.zip)** - Diddy Kong Racing car. Same animation and flairs as Kart Alt(minus pulsing engine pipes).  Everything by @fznmeatpopsicle.
 
-**[drrr_template_warp.zip](https://github.com/fznmeatpopsicle/srb2_k_drrr_md3_tutorials/raw/refs/heads/main/drrr/drrr_template_warpstar.zip)** - Kirby's warpstar. Everything by @fznmeatpopsicle.
+**[drrr_template_warpstar.zip](https://github.com/fznmeatpopsicle/srb2_k_drrr_md3_tutorials/raw/refs/heads/main/drrr/drrr_template_warpstar.zip)** - Kirby's warpstar. Everything by @fznmeatpopsicle.
